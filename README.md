@@ -12,3 +12,4 @@ https://github.com/matyb/java-koans/archive/master.zip
 * Back to the console and run ```./run.sh```  (WINDOWS: ```run.bat```)
 * Follow the instructions and start hacking
 # beginnersKoans
+# beginnersKoans
